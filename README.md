@@ -2,8 +2,10 @@
 
 Projeto final da disciplina de Interface Homem-Máquina (S05) do Inatel. O objetivo é recriar a interface do Instagram, focando na experiência do usuário (UX)
 
-**[Acesse o site aqui](https://inatel-academico.netlify.app/index.html)**
-**[Acesse a apresentação(pdf) do projeto aqui](https://github.com/AnnaBittencourt19/Projeto-Final-S05/blob/main/projeto%20final%20S05.pdf)**
+[Acesse o site aqui](https://inatel-academico.netlify.app/index.html)
+
+[Acesse a apresentação(pdf) do projeto aqui](https://github.com/AnnaBittencourt19/Projeto-Final-S05/blob/main/projeto%20final%20S05.pdf)
+
 ---
 
 ## 🚀 Funcionalidades (Interface)
